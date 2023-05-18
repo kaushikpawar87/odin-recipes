@@ -32,3 +32,7 @@ img {
 .recipes ul li{
     display: inline;
 }
+
+.list a {
+    list-style: none;
+}
